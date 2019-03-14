@@ -1,6 +1,6 @@
 var Discord = require('discord.js');
 var bot = new Discord.Client();
-var token = ('NTI0NjE0Mjk0NTYyOTMwNjk4.Dvv9Fw.ePsM9Jmbglzz8P09tSHzxfBbV3w')
+var token = ('token')
 ;
 var randomMessage;
 var randOn = false;
